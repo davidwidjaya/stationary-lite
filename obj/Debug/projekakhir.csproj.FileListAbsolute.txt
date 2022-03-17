@@ -1,0 +1,255 @@
+E:\projekakhir\projekakhir\bin\Debug\projekakhir.exe.config
+E:\projekakhir\projekakhir\bin\Debug\projekakhir.exe
+E:\projekakhir\projekakhir\bin\Debug\projekakhir.pdb
+E:\projekakhir\projekakhir\obj\Debug\projekakhir.csprojResolveAssemblyReference.cache
+E:\projekakhir\projekakhir\obj\Debug\projekakhir.login.resources
+E:\projekakhir\projekakhir\obj\Debug\projekakhir.Properties.Resources.resources
+E:\projekakhir\projekakhir\obj\Debug\projekakhir.csproj.GenerateResource.Cache
+E:\projekakhir\projekakhir\obj\Debug\projekakhir.exe
+E:\projekakhir\projekakhir\obj\Debug\projekakhir.pdb
+E:\projekakhir\projekakhir\obj\Debug\projekakhir.admin.resources
+E:\projekakhir\projekakhir\obj\Debug\projekakhir.unreg.resources
+E:\projekakhir\projekakhir\obj\Debug\projekakhir.inventaris.resources
+E:\projekakhir\projekakhir\obj\Debug\projekakhir.kasir.resources
+E:\projekakhir\projekakhir\obj\Debug\projekakhir.regis.resources
+E:\projekakhir\projekakhir\obj\Debug\projekakhir.nota.resources
+E:\projekakhir\projekakhir\bin\Debug\stationalite.mdf
+E:\projekakhir\projekakhir\bin\Debug\stationalite_log.ldf
+E:\projekakhir\projekakhir\obj\Debug\projekakhir.laporan.resources
+A:\College\Programming\Pemograman Visual\projekakhir\projekakhir\bin\Debug\stationalite.mdf
+A:\College\Programming\Pemograman Visual\projekakhir\projekakhir\bin\Debug\stationalite_log.ldf
+A:\College\Programming\Pemograman Visual\projekakhir\projekakhir\bin\Debug\projekakhir.exe.config
+A:\College\Programming\Pemograman Visual\projekakhir\projekakhir\bin\Debug\projekakhir.exe
+A:\College\Programming\Pemograman Visual\projekakhir\projekakhir\bin\Debug\projekakhir.pdb
+A:\College\Programming\Pemograman Visual\projekakhir\projekakhir\obj\Debug\projekakhir.csprojAssemblyReference.cache
+A:\College\Programming\Pemograman Visual\projekakhir\projekakhir\obj\Debug\projekakhir.admin.resources
+A:\College\Programming\Pemograman Visual\projekakhir\projekakhir\obj\Debug\projekakhir.inventaris.resources
+A:\College\Programming\Pemograman Visual\projekakhir\projekakhir\obj\Debug\projekakhir.kasir.resources
+A:\College\Programming\Pemograman Visual\projekakhir\projekakhir\obj\Debug\projekakhir.laporan.resources
+A:\College\Programming\Pemograman Visual\projekakhir\projekakhir\obj\Debug\projekakhir.login.resources
+A:\College\Programming\Pemograman Visual\projekakhir\projekakhir\obj\Debug\projekakhir.nota.resources
+A:\College\Programming\Pemograman Visual\projekakhir\projekakhir\obj\Debug\projekakhir.Properties.Resources.resources
+A:\College\Programming\Pemograman Visual\projekakhir\projekakhir\obj\Debug\projekakhir.regis.resources
+A:\College\Programming\Pemograman Visual\projekakhir\projekakhir\obj\Debug\projekakhir.unreg.resources
+A:\College\Programming\Pemograman Visual\projekakhir\projekakhir\obj\Debug\projekakhir.csproj.GenerateResource.cache
+A:\College\Programming\Pemograman Visual\projekakhir\projekakhir\obj\Debug\projekakhir.csproj.CoreCompileInputs.cache
+A:\College\Programming\Pemograman Visual\projekakhir\projekakhir\obj\Debug\projekakhir.exe
+A:\College\Programming\Pemograman Visual\projekakhir\projekakhir\obj\Debug\projekakhir.pdb
+C:\Users\mksum\OneDrive\Documents\projekakhir\projekakhir\bin\Debug\stationalite.mdf
+C:\Users\mksum\OneDrive\Documents\projekakhir\projekakhir\bin\Debug\stationalite_log.ldf
+C:\Users\mksum\OneDrive\Documents\projekakhir\projekakhir\bin\Debug\projekakhir.exe.config
+C:\Users\mksum\OneDrive\Documents\projekakhir\projekakhir\bin\Debug\projekakhir.exe
+C:\Users\mksum\OneDrive\Documents\projekakhir\projekakhir\bin\Debug\projekakhir.pdb
+C:\Users\mksum\OneDrive\Documents\projekakhir\projekakhir\obj\Debug\projekakhir.csprojAssemblyReference.cache
+C:\Users\mksum\OneDrive\Documents\projekakhir\projekakhir\obj\Debug\projekakhir.admin.resources
+C:\Users\mksum\OneDrive\Documents\projekakhir\projekakhir\obj\Debug\projekakhir.inventaris.resources
+C:\Users\mksum\OneDrive\Documents\projekakhir\projekakhir\obj\Debug\projekakhir.kasir.resources
+C:\Users\mksum\OneDrive\Documents\projekakhir\projekakhir\obj\Debug\projekakhir.laporan.resources
+C:\Users\mksum\OneDrive\Documents\projekakhir\projekakhir\obj\Debug\projekakhir.login.resources
+C:\Users\mksum\OneDrive\Documents\projekakhir\projekakhir\obj\Debug\projekakhir.nota.resources
+C:\Users\mksum\OneDrive\Documents\projekakhir\projekakhir\obj\Debug\projekakhir.Properties.Resources.resources
+C:\Users\mksum\OneDrive\Documents\projekakhir\projekakhir\obj\Debug\projekakhir.regis.resources
+C:\Users\mksum\OneDrive\Documents\projekakhir\projekakhir\obj\Debug\projekakhir.unreg.resources
+C:\Users\mksum\OneDrive\Documents\projekakhir\projekakhir\obj\Debug\projekakhir.csproj.GenerateResource.cache
+C:\Users\mksum\OneDrive\Documents\projekakhir\projekakhir\obj\Debug\projekakhir.exe
+C:\Users\mksum\OneDrive\Documents\projekakhir\projekakhir\obj\Debug\projekakhir.pdb
+C:\Users\SBG\Downloads\projekakhir\projekakhir\bin\Debug\stationalite.mdf
+C:\Users\SBG\Downloads\projekakhir\projekakhir\bin\Debug\stationalite_log.ldf
+C:\Users\SBG\Downloads\projekakhir\projekakhir\bin\Debug\projekakhir.exe.config
+C:\Users\SBG\Downloads\projekakhir\projekakhir\bin\Debug\projekakhir.exe
+C:\Users\SBG\Downloads\projekakhir\projekakhir\bin\Debug\projekakhir.pdb
+C:\Users\SBG\Downloads\projekakhir\projekakhir\obj\Debug\projekakhir.csprojResolveAssemblyReference.cache
+C:\Users\SBG\Downloads\projekakhir\projekakhir\obj\Debug\projekakhir.admin.resources
+C:\Users\SBG\Downloads\projekakhir\projekakhir\obj\Debug\projekakhir.inventaris.resources
+C:\Users\SBG\Downloads\projekakhir\projekakhir\obj\Debug\projekakhir.kasir.resources
+C:\Users\SBG\Downloads\projekakhir\projekakhir\obj\Debug\projekakhir.laporan.resources
+C:\Users\SBG\Downloads\projekakhir\projekakhir\obj\Debug\projekakhir.login.resources
+C:\Users\SBG\Downloads\projekakhir\projekakhir\obj\Debug\projekakhir.nota.resources
+C:\Users\SBG\Downloads\projekakhir\projekakhir\obj\Debug\projekakhir.Properties.Resources.resources
+C:\Users\SBG\Downloads\projekakhir\projekakhir\obj\Debug\projekakhir.regis.resources
+C:\Users\SBG\Downloads\projekakhir\projekakhir\obj\Debug\projekakhir.unreg.resources
+C:\Users\SBG\Downloads\projekakhir\projekakhir\obj\Debug\projekakhir.csproj.GenerateResource.Cache
+C:\Users\SBG\Downloads\projekakhir\projekakhir\obj\Debug\projekakhir.csproj.CoreCompileInputs.cache
+C:\Users\SBG\Downloads\projekakhir\projekakhir\obj\Debug\projekakhir.exe
+C:\Users\SBG\Downloads\projekakhir\projekakhir\obj\Debug\projekakhir.pdb
+C:\Users\SBG\Downloads\projekakhir\projekakhir\obj\Debug\projekakhir.detailbayar.resources
+E:\projekakhir\projekakhirVAfi\projekakhir\projekakhir\bin\Debug\stationalite.mdf
+E:\projekakhir\projekakhirVAfi\projekakhir\projekakhir\bin\Debug\stationalite_log.ldf
+E:\projekakhir\projekakhirVAfi\projekakhir\projekakhir\bin\Debug\projekakhir.exe.config
+E:\projekakhir\projekakhirVAfi\projekakhir\projekakhir\bin\Debug\projekakhir.exe
+E:\projekakhir\projekakhirVAfi\projekakhir\projekakhir\bin\Debug\projekakhir.pdb
+E:\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.csprojResolveAssemblyReference.cache
+E:\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.admin.resources
+E:\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.detailbayar.resources
+E:\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.inventaris.resources
+E:\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.kasir.resources
+E:\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.laporan.resources
+E:\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.login.resources
+E:\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.nota.resources
+E:\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.Properties.Resources.resources
+E:\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.regis.resources
+E:\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.unreg.resources
+E:\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.csproj.GenerateResource.Cache
+E:\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.exe
+E:\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.pdb
+E:\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.Labsensi.resources
+E:\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.LBarangIN.resources
+E:\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.LPenjualan.resources
+E:\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.LMasterBarang.resources
+E:\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.LBarangKeluar.resources
+D:\projekakhir\FIX akhir ada error\projekakhir\projekakhirVAfi\projekakhir\projekakhir\bin\Debug\stationalite.mdf
+D:\projekakhir\FIX akhir ada error\projekakhir\projekakhirVAfi\projekakhir\projekakhir\bin\Debug\stationalite_log.ldf
+D:\projekakhir\FIX akhir ada error\projekakhir\projekakhirVAfi\projekakhir\projekakhir\bin\Debug\projekakhir.exe.config
+D:\projekakhir\FIX akhir ada error\projekakhir\projekakhirVAfi\projekakhir\projekakhir\bin\Debug\projekakhir.exe
+D:\projekakhir\FIX akhir ada error\projekakhir\projekakhirVAfi\projekakhir\projekakhir\bin\Debug\projekakhir.pdb
+D:\projekakhir\FIX akhir ada error\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.csprojAssemblyReference.cache
+D:\projekakhir\FIX akhir ada error\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.admin.resources
+D:\projekakhir\FIX akhir ada error\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.detailbayar.resources
+D:\projekakhir\FIX akhir ada error\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.inventaris.resources
+D:\projekakhir\FIX akhir ada error\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.kasir.resources
+D:\projekakhir\FIX akhir ada error\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.Labsensi.resources
+D:\projekakhir\FIX akhir ada error\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.laporan.resources
+D:\projekakhir\FIX akhir ada error\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.LBarangIN.resources
+D:\projekakhir\FIX akhir ada error\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.LBarangKeluar.resources
+D:\projekakhir\FIX akhir ada error\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.LMasterBarang.resources
+D:\projekakhir\FIX akhir ada error\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.login.resources
+D:\projekakhir\FIX akhir ada error\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.LPenjualan.resources
+D:\projekakhir\FIX akhir ada error\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.Properties.Resources.resources
+D:\projekakhir\FIX akhir ada error\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.regis.resources
+D:\projekakhir\FIX akhir ada error\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.unreg.resources
+D:\projekakhir\FIX akhir ada error\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.csproj.GenerateResource.cache
+D:\projekakhir\FIX akhir ada error\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.csproj.CoreCompileInputs.cache
+D:\projekakhir\FIX akhir ada error\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.exe
+D:\projekakhir\FIX akhir ada error\projekakhir\projekakhirVAfi\projekakhir\projekakhir\obj\Debug\projekakhir.pdb
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\bin\Debug\stationalite.mdf
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\bin\Debug\stationalite_log.ldf
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\bin\Debug\projekakhir.exe.config
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\bin\Debug\projekakhir.exe
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\bin\Debug\projekakhir.pdb
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\obj\Debug\projekakhir.csprojAssemblyReference.cache
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\obj\Debug\projekakhir.admin.resources
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\obj\Debug\projekakhir.detailbayar.resources
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\obj\Debug\projekakhir.inventaris.resources
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\obj\Debug\projekakhir.kasir.resources
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\obj\Debug\projekakhir.Labsensi.resources
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\obj\Debug\projekakhir.laporan.resources
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\obj\Debug\projekakhir.LBarangIN.resources
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\obj\Debug\projekakhir.LBarangKeluar.resources
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\obj\Debug\projekakhir.LMasterBarang.resources
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\obj\Debug\projekakhir.login.resources
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\obj\Debug\projekakhir.LPenjualan.resources
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\obj\Debug\projekakhir.Properties.Resources.resources
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\obj\Debug\projekakhir.regis.resources
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\obj\Debug\projekakhir.unreg.resources
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\obj\Debug\projekakhir.csproj.GenerateResource.cache
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\obj\Debug\projekakhir.exe
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\obj\Debug\projekakhir.pdb
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\obj\Debug\projekakhir.FormLapNota.resources
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\bin\Debug\stdole.dll
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\obj\Debug\projekakhir.csproj.CopyComplete
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\mksum\Documents\KULIAH\SMT 3\4_PEMROGRAMAN VISUAL\projekAkhirRevisiTerbaru\projekakhir\projekakhir\obj\Debug\projekakhir.FormCrystalReportNota.resources
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\bin\Debug\stationalite.mdf
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\bin\Debug\stationalite_log.ldf
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\bin\Debug\projekakhir.exe.config
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\bin\Debug\projekakhir.exe
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\bin\Debug\projekakhir.pdb
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\bin\Debug\stdole.dll
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\obj\Debug\projekakhir.csprojResolveAssemblyReference.cache
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\obj\Debug\projekakhir.admin.resources
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\obj\Debug\projekakhir.detailbayar.resources
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\obj\Debug\projekakhir.FormCrystalReportNota.resources
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\obj\Debug\projekakhir.inventaris.resources
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\obj\Debug\projekakhir.kasir.resources
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\obj\Debug\projekakhir.Labsensi.resources
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\obj\Debug\projekakhir.FormLapNota.resources
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\obj\Debug\projekakhir.laporan.resources
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\obj\Debug\projekakhir.LBarangIN.resources
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\obj\Debug\projekakhir.LBarangKeluar.resources
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\obj\Debug\projekakhir.LMasterBarang.resources
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\obj\Debug\projekakhir.login.resources
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\obj\Debug\projekakhir.LPenjualan.resources
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\obj\Debug\projekakhir.Properties.Resources.resources
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\obj\Debug\projekakhir.regis.resources
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\obj\Debug\projekakhir.unreg.resources
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\obj\Debug\projekakhir.csproj.GenerateResource.Cache
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\obj\Debug\projekakhir.csproj.CoreCompileInputs.cache
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\obj\Debug\projekakhir.exe
+C:\Users\SBG\Downloads\projekAkhirRevisiTerbaruNotaDone\projekakhir\projekakhir\obj\Debug\projekakhir.pdb
+D:\projekakhir\projekakhir\projekakhir\projekakhir\bin\Debug\stationalite.mdf
+D:\projekakhir\projekakhir\projekakhir\projekakhir\bin\Debug\stationalite_log.ldf
+D:\projekakhir\projekakhir\projekakhir\projekakhir\bin\Debug\projekakhir.exe.config
+D:\projekakhir\projekakhir\projekakhir\projekakhir\bin\Debug\projekakhir.exe
+D:\projekakhir\projekakhir\projekakhir\projekakhir\bin\Debug\projekakhir.pdb
+D:\projekakhir\projekakhir\projekakhir\projekakhir\bin\Debug\ShockwaveFlashObjects.dll
+D:\projekakhir\projekakhir\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\projekakhir\projekakhir\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\projekakhir\projekakhir\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\projekakhir\projekakhir\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\projekakhir\projekakhir\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\projekakhir\projekakhir\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\projekakhir\projekakhir\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\projekakhir\projekakhir\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\projekakhir\projekakhir\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\projekakhir\projekakhir\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\projekakhir\projekakhir\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\projekakhir\projekakhir\projekakhir\projekakhir\bin\Debug\stdole.dll
+D:\projekakhir\projekakhir\projekakhir\projekakhir\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\projekakhir\projekakhir\projekakhir\projekakhir\obj\Debug\projekakhir.csprojResolveAssemblyReference.cache
+D:\projekakhir\projekakhir\projekakhir\projekakhir\obj\Debug\projekakhir.admin.resources
+D:\projekakhir\projekakhir\projekakhir\projekakhir\obj\Debug\projekakhir.detailbayar.resources
+D:\projekakhir\projekakhir\projekakhir\projekakhir\obj\Debug\projekakhir.FormCrystalReportNota.resources
+D:\projekakhir\projekakhir\projekakhir\projekakhir\obj\Debug\projekakhir.inventaris.resources
+D:\projekakhir\projekakhir\projekakhir\projekakhir\obj\Debug\projekakhir.kasir.resources
+D:\projekakhir\projekakhir\projekakhir\projekakhir\obj\Debug\projekakhir.Labsensi.resources
+D:\projekakhir\projekakhir\projekakhir\projekakhir\obj\Debug\projekakhir.FormLapNota.resources
+D:\projekakhir\projekakhir\projekakhir\projekakhir\obj\Debug\projekakhir.laporan.resources
+D:\projekakhir\projekakhir\projekakhir\projekakhir\obj\Debug\projekakhir.LBarangIN.resources
+D:\projekakhir\projekakhir\projekakhir\projekakhir\obj\Debug\projekakhir.LBarangKeluar.resources
+D:\projekakhir\projekakhir\projekakhir\projekakhir\obj\Debug\projekakhir.LMasterBarang.resources
+D:\projekakhir\projekakhir\projekakhir\projekakhir\obj\Debug\projekakhir.login.resources
+D:\projekakhir\projekakhir\projekakhir\projekakhir\obj\Debug\projekakhir.LPenjualan.resources
+D:\projekakhir\projekakhir\projekakhir\projekakhir\obj\Debug\projekakhir.Properties.Resources.resources
+D:\projekakhir\projekakhir\projekakhir\projekakhir\obj\Debug\projekakhir.regis.resources
+D:\projekakhir\projekakhir\projekakhir\projekakhir\obj\Debug\projekakhir.unreg.resources
+D:\projekakhir\projekakhir\projekakhir\projekakhir\obj\Debug\projekakhir.csproj.GenerateResource.Cache
+D:\projekakhir\projekakhir\projekakhir\projekakhir\obj\Debug\projekakhir.exe
+D:\projekakhir\projekakhir\projekakhir\projekakhir\obj\Debug\projekakhir.pdb
+D:\projekakhir\projekakhir\projekakhir\projekakhir\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\projekakhir\projekakhir\projekakhir\projekakhir\bin\Debug\FlashControlV71.dll
+D:\projekakhir\projekakhir\projekakhir\projekakhir\obj\Debug\projekakhir.csproj.projekakhir.exe.config

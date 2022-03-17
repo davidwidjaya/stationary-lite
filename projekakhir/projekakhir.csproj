@@ -1,0 +1,385 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{70DD50B4-6FE3-40D2-B207-DE80BDE3EE44}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>projekakhir</RootNamespace>
+    <AssemblyName>projekakhir</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin.Designer.cs">
+      <DependentUpon>admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CrystalReport1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReportBarangIn.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReportBarangIn.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReportBarangKeluar.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReportBarangKeluar.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReportMasterBarang.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReportMasterBarang.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReportNota.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReportNota.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSetAbsen.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetAbsen.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetBarangIn.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetBarangIn.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetBarangKeluar.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetBarangKeluar.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetMasterBarang.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetMasterBarang.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetNota.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetNota.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="detailbayar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="detailbayar.Designer.cs">
+      <DependentUpon>detailbayar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCrystalReportNota.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCrystalReportNota.Designer.cs">
+      <DependentUpon>FormCrystalReportNota.cs</DependentUpon>
+    </Compile>
+    <Compile Include="inventaris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="inventaris.Designer.cs">
+      <DependentUpon>inventaris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kasir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kasir.Designer.cs">
+      <DependentUpon>kasir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Labsensi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Labsensi.Designer.cs">
+      <DependentUpon>Labsensi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LAPNOTA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LAPNOTA.Designer.cs">
+      <DependentUpon>LAPNOTA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="laporan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="laporan.Designer.cs">
+      <DependentUpon>laporan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LBarangIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LBarangIN.Designer.cs">
+      <DependentUpon>LBarangIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LBarangKeluar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LBarangKeluar.Designer.cs">
+      <DependentUpon>LBarangKeluar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LMasterBarang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LMasterBarang.Designer.cs">
+      <DependentUpon>LMasterBarang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LPenjualan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LPenjualan.Designer.cs">
+      <DependentUpon>LPenjualan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="regis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="regis.Designer.cs">
+      <DependentUpon>regis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="unreg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="unreg.Designer.cs">
+      <DependentUpon>unreg.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="admin.resx">
+      <DependentUpon>admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReportBarangIn.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReportBarangIn.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReportBarangKeluar.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReportBarangKeluar.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReportMasterBarang.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReportMasterBarang.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReportNota.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReportNota.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="detailbayar.resx">
+      <DependentUpon>detailbayar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCrystalReportNota.resx">
+      <DependentUpon>FormCrystalReportNota.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="inventaris.resx">
+      <DependentUpon>inventaris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kasir.resx">
+      <DependentUpon>kasir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Labsensi.resx">
+      <DependentUpon>Labsensi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LAPNOTA.resx">
+      <DependentUpon>LAPNOTA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="laporan.resx">
+      <DependentUpon>laporan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LBarangIN.resx">
+      <DependentUpon>LBarangIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LBarangKeluar.resx">
+      <DependentUpon>LBarangKeluar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LMasterBarang.resx">
+      <DependentUpon>LMasterBarang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LPenjualan.resx">
+      <DependentUpon>LPenjualan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="regis.resx">
+      <DependentUpon>regis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="unreg.resx">
+      <DependentUpon>unreg.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DataSetAbsen.xsc">
+      <DependentUpon>DataSetAbsen.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetAbsen.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetAbsen.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetAbsen.xss">
+      <DependentUpon>DataSetAbsen.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetBarangIn.xsc">
+      <DependentUpon>DataSetBarangIn.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetBarangIn.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetBarangIn.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSetBarangIn.xss">
+      <DependentUpon>DataSetBarangIn.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetBarangKeluar.xsc">
+      <DependentUpon>DataSetBarangKeluar.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetBarangKeluar.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetBarangKeluar.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetBarangKeluar.xss">
+      <DependentUpon>DataSetBarangKeluar.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetMasterBarang.xsc">
+      <DependentUpon>DataSetMasterBarang.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetMasterBarang.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetMasterBarang.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetMasterBarang.xss">
+      <DependentUpon>DataSetMasterBarang.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetNota.xsc">
+      <DependentUpon>DataSetNota.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetNota.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetNota.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetNota.xss">
+      <DependentUpon>DataSetNota.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="stationalite.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="stationalite_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>stationalite.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

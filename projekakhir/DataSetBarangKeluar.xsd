@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetBarangKeluar" targetNamespace="http://tempuri.org/DataSetBarangKeluar.xsd" xmlns:mstns="http://tempuri.org/DataSetBarangKeluar.xsd" xmlns="http://tempuri.org/DataSetBarangKeluar.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetBarangKeluar" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSetBarangKeluar" msprop:Generator_UserDSName="DataSetBarangKeluar">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="BARANGIN" msprop:Generator_TableClassName="BARANGINDataTable" msprop:Generator_TableVarName="tableBARANGIN" msprop:Generator_TablePropName="BARANGIN" msprop:Generator_RowDeletingName="BARANGINRowDeleting" msprop:Generator_RowChangingName="BARANGINRowChanging" msprop:Generator_RowEvHandlerName="BARANGINRowChangeEventHandler" msprop:Generator_RowDeletedName="BARANGINRowDeleted" msprop:Generator_UserTableName="BARANGIN" msprop:Generator_RowChangedName="BARANGINRowChanged" msprop:Generator_RowEvArgName="BARANGINRowChangeEvent" msprop:Generator_RowClassName="BARANGINRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="kodeBarang" msprop:Generator_ColumnVarNameInTable="columnkodeBarang" msprop:Generator_ColumnPropNameInRow="kodeBarang" msprop:Generator_ColumnPropNameInTable="kodeBarangColumn" msprop:Generator_UserColumnName="kodeBarang" type="xs:string" minOccurs="0" />
+              <xs:element name="namaBarang" msprop:Generator_ColumnVarNameInTable="columnnamaBarang" msprop:Generator_ColumnPropNameInRow="namaBarang" msprop:Generator_ColumnPropNameInTable="namaBarangColumn" msprop:Generator_UserColumnName="namaBarang" type="xs:string" minOccurs="0" />
+              <xs:element name="stok" msprop:Generator_ColumnVarNameInTable="columnstok" msprop:Generator_ColumnPropNameInRow="stok" msprop:Generator_ColumnPropNameInTable="stokColumn" msprop:Generator_UserColumnName="stok" type="xs:string" minOccurs="0" />
+              <xs:element name="tglMasuk" msprop:Generator_ColumnVarNameInTable="columntglMasuk" msprop:Generator_ColumnPropNameInRow="tglMasuk" msprop:Generator_ColumnPropNameInTable="tglMasukColumn" msprop:Generator_UserColumnName="tglMasuk" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="BARANGOUT" msprop:Generator_TableClassName="BARANGOUTDataTable" msprop:Generator_TableVarName="tableBARANGOUT" msprop:Generator_TablePropName="BARANGOUT" msprop:Generator_RowDeletingName="BARANGOUTRowDeleting" msprop:Generator_RowChangingName="BARANGOUTRowChanging" msprop:Generator_RowEvHandlerName="BARANGOUTRowChangeEventHandler" msprop:Generator_RowDeletedName="BARANGOUTRowDeleted" msprop:Generator_UserTableName="BARANGOUT" msprop:Generator_RowChangedName="BARANGOUTRowChanged" msprop:Generator_RowEvArgName="BARANGOUTRowChangeEvent" msprop:Generator_RowClassName="BARANGOUTRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="kodeBarangKeluar" msprop:Generator_ColumnVarNameInTable="columnkodeBarangKeluar" msprop:Generator_ColumnPropNameInRow="kodeBarangKeluar" msprop:Generator_ColumnPropNameInTable="kodeBarangKeluarColumn" msprop:Generator_UserColumnName="kodeBarangKeluar" type="xs:string" minOccurs="0" />
+              <xs:element name="kodeBarang" msprop:Generator_ColumnVarNameInTable="columnkodeBarang" msprop:Generator_ColumnPropNameInRow="kodeBarang" msprop:Generator_ColumnPropNameInTable="kodeBarangColumn" msprop:Generator_UserColumnName="kodeBarang" type="xs:string" minOccurs="0" />
+              <xs:element name="jumlah" msprop:Generator_ColumnVarNameInTable="columnjumlah" msprop:Generator_ColumnPropNameInRow="jumlah" msprop:Generator_ColumnPropNameInTable="jumlahColumn" msprop:Generator_UserColumnName="jumlah" type="xs:string" minOccurs="0" />
+              <xs:element name="tglKeluar" msprop:Generator_ColumnVarNameInTable="columntglKeluar" msprop:Generator_ColumnPropNameInRow="tglKeluar" msprop:Generator_ColumnPropNameInTable="tglKeluarColumn" msprop:Generator_UserColumnName="tglKeluar" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="BARANGINKey1">
+      <xs:selector xpath=".//mstns:BARANGIN" />
+      <xs:field xpath="mstns:kodeBarang" />
+    </xs:unique>
+    <xs:unique name="BARANGOUTKey1">
+      <xs:selector xpath=".//mstns:BARANGOUT" />
+      <xs:field xpath="mstns:kodeBarangKeluar" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

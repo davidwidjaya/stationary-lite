@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetAbsen" targetNamespace="http://tempuri.org/DataSetAbsen.xsd" xmlns:mstns="http://tempuri.org/DataSetAbsen.xsd" xmlns="http://tempuri.org/DataSetAbsen.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetAbsen" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSetAbsen" msprop:Generator_UserDSName="DataSetAbsen">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ABSEN" msprop:Generator_TableClassName="ABSENDataTable" msprop:Generator_TableVarName="tableABSEN" msprop:Generator_TablePropName="ABSEN" msprop:Generator_RowDeletingName="ABSENRowDeleting" msprop:Generator_RowChangingName="ABSENRowChanging" msprop:Generator_RowEvHandlerName="ABSENRowChangeEventHandler" msprop:Generator_RowDeletedName="ABSENRowDeleted" msprop:Generator_UserTableName="ABSEN" msprop:Generator_RowChangedName="ABSENRowChanged" msprop:Generator_RowEvArgName="ABSENRowChangeEvent" msprop:Generator_RowClassName="ABSENRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Id" msprop:Generator_ColumnVarNameInTable="columnId" msprop:Generator_ColumnPropNameInRow="Id" msprop:Generator_ColumnPropNameInTable="IdColumn" msprop:Generator_UserColumnName="Id" type="xs:string" />
+              <xs:element name="kodeUser" msprop:Generator_ColumnVarNameInTable="columnkodeUser" msprop:Generator_ColumnPropNameInRow="kodeUser" msprop:Generator_ColumnPropNameInTable="kodeUserColumn" msprop:Generator_UserColumnName="kodeUser" type="xs:string" minOccurs="0" />
+              <xs:element name="tglLogin" msprop:Generator_ColumnVarNameInTable="columntglLogin" msprop:Generator_ColumnPropNameInRow="tglLogin" msprop:Generator_ColumnPropNameInTable="tglLoginColumn" msprop:Generator_UserColumnName="tglLogin" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="USERS" msprop:Generator_TableClassName="USERSDataTable" msprop:Generator_TableVarName="tableUSERS" msprop:Generator_TablePropName="USERS" msprop:Generator_RowDeletingName="USERSRowDeleting" msprop:Generator_RowChangingName="USERSRowChanging" msprop:Generator_RowEvHandlerName="USERSRowChangeEventHandler" msprop:Generator_RowDeletedName="USERSRowDeleted" msprop:Generator_UserTableName="USERS" msprop:Generator_RowChangedName="USERSRowChanged" msprop:Generator_RowEvArgName="USERSRowChangeEvent" msprop:Generator_RowClassName="USERSRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="kodeUser" msprop:Generator_ColumnVarNameInTable="columnkodeUser" msprop:Generator_ColumnPropNameInRow="kodeUser" msprop:Generator_ColumnPropNameInTable="kodeUserColumn" msprop:Generator_UserColumnName="kodeUser" type="xs:string" />
+              <xs:element name="username" msprop:Generator_ColumnVarNameInTable="columnusername" msprop:Generator_ColumnPropNameInRow="username" msprop:Generator_ColumnPropNameInTable="usernameColumn" msprop:Generator_UserColumnName="username" type="xs:string" minOccurs="0" />
+              <xs:element name="password" msprop:Generator_ColumnVarNameInTable="columnpassword" msprop:Generator_ColumnPropNameInRow="password" msprop:Generator_ColumnPropNameInTable="passwordColumn" msprop:Generator_UserColumnName="password" type="xs:string" minOccurs="0" />
+              <xs:element name="golongan" msprop:Generator_ColumnVarNameInTable="columngolongan" msprop:Generator_ColumnPropNameInRow="golongan" msprop:Generator_ColumnPropNameInTable="golonganColumn" msprop:Generator_UserColumnName="golongan" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:ABSEN" />
+      <xs:field xpath="mstns:Id" />
+    </xs:unique>
+    <xs:unique name="USERS_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:USERS" />
+      <xs:field xpath="mstns:kodeUser" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
